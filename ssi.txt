@@ -1,0 +1,7 @@
+6
+- - f a e -
+d - - - - -
+a e - d b f
+b - d c a -
+- c a - - b
+f - - - - a
